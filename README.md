@@ -1,6 +1,6 @@
 ### Hi there i am a senior developer with 8 years of experience 👋
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)]([https://www.buymeacoffee.com/gbraad](https://www.buymeacoffee.com/shankhadevpadam))
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/shankhadevpadam)
 
 <!--
 **shankhadevpadam/shankhadevpadam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
